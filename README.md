@@ -51,7 +51,7 @@
 - **SSH** — keys (OpenSSH and PuTTY `.ppk`), OpenSSH certificates, Windows OpenSSH agent or PuTTY Pageant, chained jump hosts, SOCKS5/HTTP proxy, tunnels (`-L`, `-R`, SOCKS), X11 forwarding, server monitoring under the terminal.
 - **15 session types** — SSH, Telnet, Rsh, XDMCP, RDP (embedded in a tab, full screen and zoom), VNC (built-in viewer), FTP, SFTP, Serial, File, Shell, Browser, Mosh, AWS S3, WSL.
 - **Files** — two-pane SFTP/FTP/FTPS/S3 browser, transfer queue, edit remote files with automatic upload.
-- **Auto Transfer** — upload, download, mirror or two-way sync between a local folder and any saved server (or server to server); filters, conflict rules, preview; up to 32 files at once; schedules, folder watch, retries; runs from the tray, the command line (`moxtel -run-transfer "name"`) or Windows Task Scheduler; history, Windows notifications and e-mail reports.
+- **Auto Transfer** — upload, download, mirror or two-way sync between a local folder and any saved server (or server to server); filters, conflict rules, preview; up to 32 files at once with a live transfer queue (progress per file, reorder, remove); schedules, folder watch, retries; runs from the tray, the command line (`moxtel -run-transfer "name"`) or Windows Task Scheduler; history, Windows notifications and e-mail reports.
 - **Network tools** — ping, traceroute, TCP ping, port scanner, SSL/TLS certificate checker.
 - **Recordings** — record a terminal session (asciinema `.cast`) and replay it.
 - **Import** — sessions from MobaXterm, PuTTY/KiTTY, WinSCP, mRemoteNG, SuperPuTTY and OpenSSH config (passwords are never imported).
