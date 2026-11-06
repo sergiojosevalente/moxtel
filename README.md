@@ -61,6 +61,7 @@
 - No account, no cloud, no telemetry. Moxtel connects only to the servers you open — and to github.com when you check for updates.
 - Saved sessions are encrypted for your Windows account (DPAPI); passwords are kept in a vault protected by your master password (Argon2id + AES-256-GCM).
 - Updates are installed only when their signature (Ed25519) and checksum (SHA-256) match.
+- Imported backups never start anything by themselves: Auto Transfer profiles arrive switched off and tunnels do not auto-start. Files opened from a server for editing are never run.
 
 Details: [SECURITY.md](SECURITY.md).
 
