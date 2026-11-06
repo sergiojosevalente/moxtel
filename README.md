@@ -47,9 +47,9 @@
 
 ## Features
 
-- **Tabbed terminals** — PowerShell, CMD, WSL, Git Bash; split into 2 or 4 panes; MultiExec; macros; zoom per tab; tab colors; move a tab to its own window.
+- **Tabbed terminals** — PowerShell, CMD, WSL, Git Bash; split into 2 or 4 panes; MultiExec; macros; zoom per tab; tab colors; detach a tab into a floating window or move it to its own window.
 - **SSH** — keys (OpenSSH and PuTTY `.ppk`), OpenSSH certificates, Windows OpenSSH agent or PuTTY Pageant, chained jump hosts, SOCKS5/HTTP proxy, tunnels (`-L`, `-R`, SOCKS), X11 forwarding, server monitoring under the terminal.
-- **15 session types** — SSH, Telnet, Rsh, XDMCP, RDP (embedded in a tab), VNC (built-in viewer), FTP, SFTP, Serial, File, Shell, Browser, Mosh, AWS S3, WSL.
+- **15 session types** — SSH, Telnet, Rsh, XDMCP, RDP (embedded in a tab, full screen and zoom), VNC (built-in viewer), FTP, SFTP, Serial, File, Shell, Browser, Mosh, AWS S3, WSL.
 - **Files** — two-pane SFTP/FTP/FTPS/S3 browser, transfer queue, edit remote files with automatic upload.
 - **Auto Transfer** — upload, download, mirror or two-way sync between a local folder and any saved server (or server to server); filters, conflict rules, preview; up to 32 files at once; schedules, folder watch, retries; runs from the tray, the command line (`moxtel -run-transfer "name"`) or Windows Task Scheduler; history, Windows notifications and e-mail reports.
 - **Network tools** — ping, traceroute, TCP ping, port scanner, SSL/TLS certificate checker.
