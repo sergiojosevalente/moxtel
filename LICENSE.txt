@@ -1,0 +1,55 @@
+Moxtel — Freeware License
+Copyright (c) 2026 Sergio Valente. All rights reserved.
+
+Moxtel ("the Software") is free of charge. Its source code is not published.
+
+1. Permission
+   You may download, install and use the Software free of charge, for personal
+   and commercial purposes, on any number of computers.
+
+   You may give unmodified copies of the official installer or program file to
+   others, free of charge, together with this license.
+
+2. Restrictions
+   You may not:
+   a. sell, rent, lease or sublicense the Software, or charge for it or for
+      access to it, alone or as part of another product;
+   b. modify, translate or create derivative works of the Software;
+   c. reverse engineer, decompile or disassemble the Software, except to the
+      extent that applicable law expressly permits it despite this restriction;
+   d. remove or change any copyright, trademark or license notice; or
+   e. distribute the Software under another name, or suggest that it comes
+      from anyone other than its author.
+
+3. Third-party components
+   The Software includes open-source components. Each is used under its own
+   license, reproduced in THIRD_PARTY_NOTICES.txt (also in Help > About >
+   Open-source licenses). Those licenses apply to those components, and
+   nothing in this license limits the rights they give you.
+
+4. Your data
+   The Software stores sessions, settings and passwords only on your computer.
+   It connects only to the servers you choose and, if you use "Check for
+   updates", to github.com. You are responsible for keeping backups of your
+   data and of your password-vault master password.
+
+5. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+6. Limitation of liability
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE, INCLUDING LOSS
+   OF DATA, INTERRUPTED TRANSFERS OR DAMAGE TO REMOTE SYSTEMS.
+
+7. Termination
+   This license ends automatically if you break its terms. You must then stop
+   using the Software and delete all copies.
+
+8. Trademarks
+   "Moxtel" and its logo belong to the author. Moxtel is an independent
+   project and is not affiliated with Mobatek (MobaXterm) or any other vendor.
+
+Questions: https://sergiojosevalente.github.io/
